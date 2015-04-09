@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab4</string>
+
+    <string name="hello_world">Lab 4</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragtxt1">Hello From Fragment 1</string>
+    <string name="fragtxt2">Hello From Fragment 2</string>
+    <string name="btntxt">SWITCH</string>
+    <string name="btntitle">+id/btntxt</string>
+    <string name="btntitle1">SWITCH</string>
+    <string name="msg">New Text</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragtxt3">Hello Fragment 3</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
